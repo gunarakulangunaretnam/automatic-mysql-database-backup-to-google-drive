@@ -96,7 +96,7 @@ Usage:
 
 ## 5.2 Output
 
-![Output](docs/media/8-output.png)
+![Output](docs/media/10-output.png)
 
 # Contact
 
