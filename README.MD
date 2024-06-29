@@ -81,10 +81,17 @@ Usage:
         composer require google/apiclient:^2.0
     ```
 
-- **Step 07:** Hook up this script with cron schedular in the Server
+- **Step 07:** Update Folder ID & Auth Key JSON file path in the main.php script
 
-    - ![Banner](docs/media/7-hook-up-cron-job.png)
+- ![Banner](docs/media/7-update-folder-id-and-auth-key-json-path.png)
 
+- **Step 08:** Update credentials in the main.php script
+
+- ![Banner](docs/media/8-update-database-credentials.png)
+
+- **Step 09:** Hook up this script with cron schedular in the Server
+
+    - ![Banner](docs/media/9-hook-up-cron-job.png)
 
 
 ## 5.2 Output
