@@ -32,7 +32,7 @@ if ($return_var === 0) {
     echo "Backup created successfully: $backupFile\n";
 
     // Path to the JSON file containing service account credentials
-    define('SERVICE_ACCOUNT_FILE', 'ADD_SERVICE_ACCOUNT_AUTH_KEY.json');
+    define('SERVICE_ACCOUNT_FILE', __DIR__ . '/ADD_SERVICE_ACCOUNT_AUTH_KEY.json');
 
     // ID of the Google Drive folder where you want to upload the file
     define('DRIVE_FOLDER_ID', 'ADD_GOOGLE_DRIVE_FOLDER_ID');
