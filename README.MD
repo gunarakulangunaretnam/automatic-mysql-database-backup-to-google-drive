@@ -59,7 +59,7 @@ Usage:
     - Navigate to Service accounts > Keys.
     - Select JSON Key and save it (This key is used for authentication purpose).
 
-- **Step 04:** Create a folder in Google Drive and share it to service account mail.
+- **Step 04:** Create a folder in Google Drive and share it to service account mail
 
     - Service Account Mail
 
@@ -70,7 +70,7 @@ Usage:
     - ![Banner](docs/media/5-share-to-service-account-mail.png)
 
 
-- **Step 05:** Deploy the script to the server.
+- **Step 05:** Deploy the script to the server
 
     - ![Banner](docs/media/6-deploy-the-script-to-the-server.png)
 
@@ -81,7 +81,7 @@ Usage:
         composer require google/apiclient:^2.0
     ```
 
-- **Step 07:** Hook up this script with cron schedular in the Server.
+- **Step 07:** Hook up this script with cron schedular in the Server
 
     - ![Banner](docs/media/7-hook-up-cron-job.png)
 
